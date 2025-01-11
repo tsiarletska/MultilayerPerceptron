@@ -8,5 +8,6 @@ Apart from function, there were experiments on the number of neurons in hidden l
 
 The assessments of the models performance were based on the results of confusion matrix and accuracy.
 
+The confusion matrix of the 6th case: (acc - 0.97, function - identity, one hidden layer with 100 neurons).
 <img width="276" alt="confusion_matrix_6_case" src="https://github.com/user-attachments/assets/bab8984b-8657-4ae1-915e-fb0213868ceb" />
 
